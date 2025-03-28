@@ -14,6 +14,9 @@
 
 ⚠️ We plan to cooperate with the cursor official in the future to provide support for projects that can promote the progress of world civilization.
 
+⚠️ Only chat and composer normal of version 0.46 and below are supported, advanced models will be queued
+
+
 ### Usage
 Open the terminal on MacOS/Linux; Open Git Bash on Windows(If you don't have GitBash, please choose method 3 to download manually, wsl is not supported). Then execute the following command to install:
 >some computers may report false positives, need to close the antivirus software/computer housekeeper/security protection and then proceed

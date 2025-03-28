@@ -126,6 +126,9 @@ func GetConfig() (lang, promotion string, mode int64) {
 	if mode == 0 {
 		mode = 2
 	}
+	if params.IsOnlyMod2 {
+		mode = 2
+	}
 	return
 }
 
